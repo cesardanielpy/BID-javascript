@@ -1,0 +1,1 @@
+Aqui estan las asignaciones de "Ninja (opcional)" y "Super Super Ninja (Core)"
