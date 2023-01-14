@@ -29,7 +29,7 @@ class Sensei extends ninja {
         this.salud = 200;
     }
     speakWisdom(){
-        super.drinkSake();
+        this.drinkSake();
         console.log("Lo que un programador puede hacer en un mes, dos programadores pueden hacerlo en dos meses.");
     }
 }
